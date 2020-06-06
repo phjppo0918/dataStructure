@@ -1,0 +1,6 @@
+/.vs
+dataStructure/*.sin
+dataStructure/*.vcxproj
+dataStructure/*.filters
+dataStructure/*.user
+/dataStructure/.vs/dataStructure/v16/Browse.VC.opendb
